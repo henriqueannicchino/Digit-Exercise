@@ -1,1 +1,3 @@
 Non ho avuto il tempo di implementare dotenv sul frontend, quindi l'URL è codificato, quando si utilizza il back vai alla porta 5001 o modifica il frontend in Login e signup
+
+Per attivare json-server utilizzare il comando "npx json-server db.json -p DB_PORT"
