@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Jonh Doe",
+      "username": "john test",
+      "password": "1234",
+      "createdAt": "2024-09-07T00:00:00",
+      "updatedAt": "2024-09-07T00:00:00"
+    },
+    {
+      "id": "2",
+      "name": "Irineu",
+      "username": "dunno",
+      "password": "1234",
+      "createdAt": "2024-09-07T00:00:00",
+      "updatedAt": "2024-09-07T00:00:00"
+    },
+    {
+      "id": "1b55",
+      "name": "test user",
+      "username": "dunno1",
+      "password": "$2a$12$odtO1vfDZ1Xdkf2FBubNi.xyV5b.5.47al3l8noP8uA7TBePrM5gK",
+      "createdAt": "2024-09-07T16:22:54.348Z",
+      "updatedAt": "2024-09-07T16:22:54.349Z"
+    },
+    {
+      "id": "aa8f",
+      "name": "test user",
+      "username": "dunno2",
+      "password": "$2a$12$hgO91QZ0stgQO5EAfUjFf.8w2opcDJKBr39qCLR9uS5YUAZISSgM6",
+      "createdAt": "2024-09-07T17:45:17.619Z",
+      "updatedAt": "2024-09-07T17:45:17.619Z"
+    },
+    {
+      "id": "a298",
+      "name": "test texhbxhx",
+      "username": "seinao",
+      "password": "$2a$12$i729CxzK4g8yiJd2Maoteuuib0AI1Wm8Lc6HUciND6M8qr0P.uc8.",
+      "createdAt": "2024-09-07T17:49:37.868Z",
+      "updatedAt": "2024-09-07T17:49:37.868Z"
+    }
+  ]
+}
